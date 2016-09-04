@@ -44,3 +44,6 @@ _load_settings "$HOME/.zsh/configs"
 
 # Local config
 [[ -f ~/.zshrc.local ]] && source ~/.zshrc.local
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
