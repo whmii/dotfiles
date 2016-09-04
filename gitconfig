@@ -26,3 +26,6 @@
   autosquash = true
 [include]
   path = ~/.gitconfig.local
+[user]
+	name = Will H McMahan
+	email = will@thoughtbot.com
